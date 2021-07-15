@@ -1,0 +1,1 @@
+http://speedtest.ftp.otenet.gr/files/test100k.db
